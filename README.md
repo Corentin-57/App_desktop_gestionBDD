@@ -1,6 +1,10 @@
 # App_desktop_gestionBDD
 Création application Desktop gestion BDD en utilisant netBeans
 
+J'ai utilsé une classe spécifique pour la connexion afin de se connecter à la base données, j'ai pu ainsi réutiliser la méthode de cette classe tout au long de mon code et éviter les répétitions.
+
+J'ai implémneté un affichage automatique des rubriques de la base de données au moment du lancement de l'application.
+
 Sujet :
 
 L’interface doit comporter des onglets (Joueur, Tournoi, épreuve, et match), chaque onglet est lié à l’affichage d’une table de la base de données tennis (utilisation d’un jTable)
