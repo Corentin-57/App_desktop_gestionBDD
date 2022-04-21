@@ -5,7 +5,7 @@ J'ai utilsé une classe spécifique pour la connexion afin de se connecter à la
 
 J'ai implémneté un affichage automatique des rubriques de la base de données au moment du lancement de l'application.
 
-Pour tous les champs de saisie obligatoire j'ai ajouté une condition afin d'afficher un message pour que l'utilisatuer complète tous les champs.
+Pour tous les champs de saisie obligatoire j'ai ajouté une condition afin d'afficher un message pour que l'utilisateur complète tous les champs.
 
 J'ai ajouté la possiblité de faire une recherche en sélectionnant que les hommes ou les femmes pour l'onglet joueur.
 
